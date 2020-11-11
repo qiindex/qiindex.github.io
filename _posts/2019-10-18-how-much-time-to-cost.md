@@ -5,8 +5,6 @@ subtitle:   设计目标：半天入门，一月掌握，两年精通
 date:       2019-10-18
 author:     Henri Jambo
 header-img: img/post-bg-alibaba.jpg
-<iframe height=498 width=510 src="img/abcd.qlv" frameborder=0 allowfullscreen></iframe>
-
 catalog: true
 tags:
     - 设计点滴
@@ -28,7 +26,7 @@ tags:
 	3、写作：借助词典可以写出A2/B1级的短文		
 	4、听力：听懂A1级内容，A2级内容在语速很慢和反复的情况下可以基本听懂
 	5、口语：可以说出自我介绍，打招呼等A1级内容			
-				
+			
 （2）半天学习时间分配				
 	
 | 语言背景          | 中文 \+ 英文 | 中文（会拼音） | 英文（B2以上） |
