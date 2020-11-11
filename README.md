@@ -2,7 +2,7 @@ Welcome to  Project！
 
 非遗传承项目----手绘盘丝.简单易学。
 
-格罗比言官网 (https://globien.github.io) 由本项目支撑。
+ (https://qiindex.github.io) 由本项目支撑。
 
 ### 您可以 ——
 
@@ -15,4 +15,4 @@ Welcome to  Project！
 #
 ### License
 
-MIT License, please refer to [LICENSE](https://github.com/globien/globien.github.io/blob/master/LICENSE).
+MIT License, please refer to [LICENSE](https://qiindex.com/globien/qiindex.github.io/blob/master/LICENSE).
