@@ -1,13 +1,13 @@
 # Site settings
-title: 天津工业大学创新创业项目.'非遗传承文化网站'
-SEOTitle: 天津工业大学创新创业项目
+title: 天津工业大学创新创业项目非遗传承文化网站
+SEOTitle: 天津工业大学创新创业的项目
 header-img: img/post-bg-desk.jpg
 email: globien@outlook.com
-description: "Easy to learn, no more hard work to recite vocabulary."
-keyword: "Constructed Language, Ligua Franca, Interlingua, Globien"
-url: "https://klovien.github.io"          # your host, for absolute URL
+description: "简单易学的非遗传承."
+keyword: "这个是在config.yml的keyword"
+url: "https://qiindex.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/globien/globien.github.io.git" # you code repository
+github_repo: "https://github.com/qiindex/qiindex.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
