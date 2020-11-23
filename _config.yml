@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Globien Wiki Dictionary",
-        href: "https://github.com/globien/globien.github.io/wiki"
+        title: "江天蓉",
+        href: "https://https://www.baidu.com"
     },{
-        title: "Globien Community",
-        href: "https://globien.fandom.com/wiki/Globien_Wiki"
+        title: "赵珊",
+        href: "https://https://www.baidu.com"
     },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "冯泽蓉",
+        href: "https://https://www.baidu.com"
     },{
-        title: "知乎：Henri_Jambo",
-        href: "https://www.zhihu.com/people/henry-jiang-78" 
+        title: "齐渊强",
+        href: "https://https://www.baidu.com" 
     }
 ]
