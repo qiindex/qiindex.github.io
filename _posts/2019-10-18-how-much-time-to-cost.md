@@ -2,7 +2,7 @@
 layout:     post
 title:      学习王氏手绘盘丝要花多少时间？
 subtitle:   设计目标：半天入门，一月掌握，两年精通
-date:       2012-10-18
+date:       2020-10-18
 author:    赵珊
 header-img: img/post-bg-alibaba.jpg
 catalog: true

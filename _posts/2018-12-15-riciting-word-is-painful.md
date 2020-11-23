@@ -2,7 +2,7 @@
 layout:     post
 title:      丧失优良传承，仍是挥不去的痛
 subtitle:   优良创承不能发扬光大的关键原因是什么？
-date:       2020-1-15
+date:       2020-10-15
 author:     齐渊强
 header-img: img/post-bg-recitewords.jpg
 catalog: false

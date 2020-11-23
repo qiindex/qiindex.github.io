@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      王氏手绘盘丝制作（一 ）
-subtitle:   英汉互补，不学就会；一字一音，看到能读，听到能写
-date:       2012-09-22
+subtitle:   ，不学就会；
+date:       2020-09-22
 author:     冯译蓉
 header-img: img/post-bg-miui6.jpg
 catalog: 	  true

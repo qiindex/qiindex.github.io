@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in b
 RSS: false
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
-github_username:      globien
+github_username:      qiindex
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 6a11cab9f46fe57e56a1                            #生成的clientID
   clientSecret: 27ac9ec88d1ecd4c819f7423c95b4ca66e54156a    #生成的clientSecret
-  repo:  globien.github.io    #仓库名称
-  owner: globien    #github用户名
-  admin: globien
+  repo:  qiindex.github.io    #仓库名称
+  owner: qiindex   #github用户名
+  admin: qiindex
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
