@@ -1,5 +1,5 @@
 # Site settings
-title: 天津工业大学创新创业项目非遗传承文化网站
+title: 天津工业大学创新创业项目非遗传承文化
 SEOTitle: 天津工业大学创新创业的项目
 header-img: img/post-bg-desk.jpg
 email: globien@outlook.com
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiindex/qiindex.github.io.git" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals 天津工业大学资料"
+sidebar-about-description: "Goals 天津工业大学我们项目的资料"
 sidebar-avatar: /img/about-HJ.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
