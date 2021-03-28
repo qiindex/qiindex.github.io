@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      历史的起源---王氏手绘盘丝？
-subtitle:   实事求是，
+title:      全国人大代表孙艳玲：明确界定加大对非遗项目的保护力度
+subtitle:   保护非遗文化传承
 date:       2020-09-03
 author:    赵珊珊
 header-img: img/post-bg-YesOrNo.jpg
 catalog: false
 tags:
-    - 设计点滴
+    - 非遗文化•热点新闻
 ---
 
 

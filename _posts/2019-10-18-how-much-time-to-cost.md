@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      学习王氏手绘盘丝要花多少时间？
-subtitle:   设计目标：半天入门，一月掌握，两年精通
+title:      两会中的非遗“关键词
+subtitle:   非遗扶贫”、“非遗产业”、“非遗保护”…
 date:       2020-10-18
 author:    赵珊
 header-img: img/post-bg-alibaba.jpg
 catalog: true
-tags:
-    - 设计点滴
+tags:	
+    - 非遗文化•热点新闻
 ---
 
 作为优良传统,设计目标是：简单易学易用，大多数人可以在很短时间内学会。
