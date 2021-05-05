@@ -2,6 +2,8 @@
 layout:     post
 title:      活动名称：非遗系列展示活动 —— 王氏手绘盘丝传统服饰制作技艺
 subtitle:   活动地点：河西区; 2021年4月15日;预约时间：2021年4月6日-2021年4月13日上午12:00
+title:      活动名称：王氏手绘盘丝”晋级路演---郁从霞老师作品展 
+subtitle:   活动地点： 活动地点：华星八里汇 活动时间：2021年4月29日 
 date:       2020-09-10
 author:     江天蓉
 header-img: img/post-bg-coronavirus.jpg
